@@ -9,8 +9,11 @@ setup(
     url='https://github.com/mdw7326/DjangoRestApiExample',
     packages=find_packages(),
     install_requires=[
-        'Django==1.11.4',
-        'djangorestframework==3.6.3',
-        'pytz==2017.2',
+        'Django==1.11.7',
+        'django-allauth==0.34.0',
+        'django-rest-auth==0.9.2',
+        'djangorestframework==3.7.3',
+        'djangorestframework-jwt==1.11.0',
+
     ]
 )
