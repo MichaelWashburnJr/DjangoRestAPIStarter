@@ -12,8 +12,9 @@ setup(
         'Django==1.11.7',
         'django-allauth==0.34.0',
         'django-rest-auth==0.9.2',
-        'djangorestframework==3.7.3',
+        'django-rest-swagger==2.1.2',
         'djangorestframework-jwt==1.11.0',
-
+        'djangorestframework==3.7.3',
+        'django-rest-swagger==2.1.2',
     ]
 )
